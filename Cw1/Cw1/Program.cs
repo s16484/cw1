@@ -6,7 +6,7 @@ namespace Cw1
     {
         public static async Task Main(string[] args)
         { 
-            //zad2
+            //zadanie 2
             var httpClient = new HttpClient();
             var response = await httpClient.GetAsync(AssemblyLoadEventArgs[0]);
         }
