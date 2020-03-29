@@ -25,7 +25,7 @@ namespace Cw1
                     Console.WriteLine(m.ToString());
                 }
             }
-            
+            //dopisany komentarz
             //JS promise async/await
             //JAVA Future
             //C# Task async/await
